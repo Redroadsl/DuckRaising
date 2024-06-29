@@ -1,0 +1,17 @@
+>>Game Started<<
+>>Initialed<<
+#----------------#
+#VideoDriver: windows
+#VideoModes: [(1920, 1080), (1680, 1050), (1600, 900), (1440, 900), (1400, 1050), (1366, 768), (1360, 768), (1280, 1024), (1280, 960), (1280, 800), (1280, 768), (1280, 720), (1280, 600), (1152, 864), (1024, 768), (800, 600), (640, 480)]
+#----------------#
+
+#MusicReplay: "Joplin - Maple Leaf Rag.mid"#
+>Size< (1536, 793)
+>MAX< (1920, 1080)
+>Size< (1280, 720)
+#MusicReplay: "Beethoven - Pathetique 2nd Movement.mid"#
+>Normal< (854, 480)
+>Size< (854, 480)
+>Size< (1264, 681)
+
+>>Game Closed<<
